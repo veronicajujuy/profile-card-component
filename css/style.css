@@ -1,8 +1,18 @@
 body {
-    background:hsl(185, 75%, 39%);
+   background:hsl(185, 75%, 39%);
     margin: 0 auto;
     font-family: 'Kumbh Sans', sans-serif;
 }
+.svg-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.back {
+    position: absolute;
+    z-index: -2;
+}
+
 .card {
     background-color: #fff;
     border-radius: 5%;
@@ -12,14 +22,10 @@ body {
 }
 
 .top {
-    /* border-radius: 15px 15px 0 0 ; */
     height: 140px;
-
 }
 .top1 {
     border-radius: 15px 15px 0 0 ;
-    /* position: absolute;
-    z-index: 9; */
 }
 
 .medium{
@@ -32,6 +38,7 @@ body {
 
 .nombre {
     margin-top: 0;
+    margin-bottom: 5px;
     font-size: 18px;
 }
 
@@ -42,6 +49,9 @@ body {
 
 .ciudad {
     color: hsl(0, 0%, 59%);
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 30px;
 }
 
 .imagen {
@@ -69,5 +79,5 @@ body {
 
 .estad-tipo {
     color:rgb(146, 144, 144);
-    font-size: 1rem;
+    font-size: 12px;
 }
