@@ -34,7 +34,8 @@ laptop
 
 ### Links
 
-- Solution URL: [Github](https://github.com/veronicajujuy/profile-card-component)
+- Solution URL: [Github](https://github.com/veronicajujuy/profile-card-component.github.io)
+- Site: [Vercel](https://profile-card-component-github-io.vercel.app/)
 
 ## My process
 
