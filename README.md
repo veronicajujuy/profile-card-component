@@ -24,15 +24,17 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/captura-mobile.PNG)
 
-[Mobile](./images/captura-mobile.PNG) 
+Mobile
 
-[Laptop](./images/Captura-laptop.PNG) 
+![](./images/Captura-laptop.PNG)
+
+laptop
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/veronicajujuy/profile-card-component)
+- Solution URL: [Github](https://github.com/veronicajujuy/profile-card-component)
 
 ## My process
 
